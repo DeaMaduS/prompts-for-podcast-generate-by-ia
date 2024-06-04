@@ -1,24 +1,13 @@
-<p  align="center">
-
-<img
-
-src="./assets/capa.webp"
-
-width="300"
-
+<p align="center">
+<img 
+    src="./assets/cover.webp"
+    width="300"
 />
-
-</p>
-
-<p  align="center">
-
-preview do podcast
-
 </p>
 
 <div  align="center">
 
-<audio  src="output/podcast_editado.MP3"  controls  title="Podcast editado"></audio>
+<audio  src="output/podcast.MP3"  controls  title="Podcast editado"></audio>
 
 </div>
 
@@ -58,58 +47,32 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻
+## 👨‍💻 Expert
 
 <p>
-
-<img
-
-align=left
-
-margin=10
-
-width=80
-
-src="https://avatars.githubusercontent.com/u/37452836?v=4"
-
-/>
-
-<p>&nbsp&nbsp&nbspAndrea Madureira<br>
-
-&nbsp&nbsp&nbsp
-
-<a
-
-href="https://github.com/DeaMaduS">
-
-GitHub
-
-</a>
-
-&nbsp;|&nbsp;
-
-<a
-
-href="www.linkedin.com/in/andreamadureira">
-
-LinkedIn
-
-</a>
-
-&nbsp;|&nbsp;
-
-<a
-
-href="https://www.instagram.com/deamadu5/">
-
-Instagram
-
-</a>
-
-&nbsp;|&nbsp;</p>
-
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/100805286?v=4"
+    />
+    <p>&nbsp&nbsp&nbspAndrea Madureira<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/DeaMaduS">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/andreamadureira">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/deamadu5/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
 </p>
-
 <br/><br/>
-
 <p>
